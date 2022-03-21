@@ -17,4 +17,4 @@ This project use the API service provide by The Movie Database, you can find all
 
 ## additional information
 
-Project made by Felipe Vasquez Ruiz in Bogota, for the skills test at Kubo company 
+Project made by Felipe Vasquez Ruiz in Bogota
