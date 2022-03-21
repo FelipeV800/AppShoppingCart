@@ -1,4 +1,4 @@
-# Prueba Tecnica Kubo
+# App Shopping Cart
 
 this is a flutter project done to test skills, the following details are some thigs you will need to keep in mind to use the app
 
